@@ -53,7 +53,7 @@ Para la exploración y la evaluación de los datos obtenidos, se realiza un aná
     
         R:// Para el diseño de la arquitectura se aprovechó las herramientas cloud, específicamente AWS, el cual es un proveedor cloud robusto y que provee gran diversidad de herramientas para la gestión de recursos. A continuación se muestra la arquitectura propuesta y posteriormente la explicación de cada uno de los componentes que se usaron:
 
-        ![image.png](attachment:image-2.png)
+        ![image.png](/Nequi-Arquitectura.drawio.png)
     
         Para la anterior arquitectura se usan los siguientes componentes:
         * AWS RDS: Para el alojamiento y la administración de la base de datos operativa.

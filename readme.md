@@ -47,7 +47,7 @@ Para la exploración y la evaluación de los datos obtenidos, se realiza un aná
     
         R:// Con los datos que se recolectaron, se puede generar el siguiente modelo, que se asemeja a un modelo estrella, el cual nos proporciona todas las características necesarias para cumplir los objetivos establecidos.
 
-        ![image.png]([attachment:image.png](https://github.com/diefgallegorio/prueba_nequi_ingenieria_datos/blob/main/Modelo%20de%20datos.drawio.png))
+        (https://github.com/diefgallegorio/prueba_nequi_ingenieria_datos/blob/main/Modelo%20de%20datos.drawio.png))
     
     * Diseñar la arquitectura y los recursos utilizados. 
     
